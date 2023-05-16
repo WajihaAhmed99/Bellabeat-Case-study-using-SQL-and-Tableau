@@ -162,6 +162,10 @@ User are taking more light active distance ,medium moderate active distance and 
 
 ![minute analysis](https://github.com/WajihaAhmed99/Bellabeat-Case-study-using-SQL-and-Tableau/assets/132120179/526bc47f-e91b-44c3-84c5-572892c2d2d8)
 
+## Tableau Dashboard
+This is tableau dashboard view of all analysis.
+
+https://public.tableau.com/app/profile/wajiha.ahmed/viz/BellabeatAnalysis_16840799790610/Dashboard1
 
 ## Results:
 *  42% user are tracking daily_activities(steps,calories),18% are tracking their heart_rate,30% user are tracking their sleep and 10% user are tracking their weight.
