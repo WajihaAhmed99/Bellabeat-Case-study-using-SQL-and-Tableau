@@ -1,7 +1,7 @@
 # Bellabeat-Case-study-using-SQL-and-Tableau
 This Case study is part of Google Data Analyst Professional Certificate.
 #                                      **About Project**
-**Bellabeat, a high-tech company that manufactures health-focused smart products wants to analyse the usage of one of their products in order to gain insight into how people are already using their smart devices.Then, using this information, she would like high-level recommendations for how these trends can inform Bellabeat marketing strategy.** 
+**This case study is part of the Google Data Analysis course. Bellabeat, a high-tech company that manufactures health-focused smart products wants to analyze how its customers utilize their services to track their daily activities. Then, after that, they would like high-level recommendations for transforming their marketing strategy. SQL and Tableau are used for data transformation and visualization in this project.** 
 #### According to Google ,their are six phases for analysis
 * Ask
 * Prepare
